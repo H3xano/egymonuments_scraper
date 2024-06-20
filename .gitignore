@@ -126,5 +126,6 @@ sunken_monuments/
 
 # Ignore VSCode settings
 .vscode/
+.idea/
 
 *.zip
